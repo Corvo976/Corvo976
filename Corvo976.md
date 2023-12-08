@@ -13,13 +13,13 @@
 ```<atualmente treino no android>```
 
 ## ```<💎Soft skills:>```
-- [x] blue;] Persistência. 
+- [x] Persistência. 
 - [x] Comunicação.
 - [x] Resolução de Problemas.
 - [x] Trabalho em equipe.
 - [x] Adaptabilidade.
 - [x] Empatia.
-
+##
 
 
 
