@@ -4,6 +4,7 @@
   <source media="(prefers-color-scheme: dark)"
 srcset="https://github.com/Corvo976/Repositorico/assets/128872433/7e26e6b2-ba19-4279-99fe-7d9e322a038f">
 
+
 ### ```<📚Informações gerais:>```
 
 ```<sou iniciante na área de programação.>```
