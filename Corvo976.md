@@ -14,8 +14,8 @@
 ```<atualmente treino no android>```
 
 ## ```<Soft skills:>```
-- [ ]
-- [ ]
+- [x] Persistência 
+- [ ] 
 - [ ]
 - [ ]
 - [ ]
