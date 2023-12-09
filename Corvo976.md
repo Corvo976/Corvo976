@@ -1,4 +1,4 @@
-##  👤Perfil:[@Corvo976]()![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+##  👤Perfil:[@Corvo976]()
 
 ![Screenshot_20231108-204335_Roblox.jpg](https://github.com/Corvo976/Repositorico/assets/128872433/3ccf8404-9017-48eb-b1b5-54865ac0ff24)
 
@@ -20,7 +20,7 @@
 - [x] Adaptabilidade.
 - [x] Empatia.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?@Corvo976=SEUUSERNAME&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
 
 
 
