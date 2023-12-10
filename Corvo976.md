@@ -28,8 +28,10 @@
  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## ```<🗒Metas:>```
-> **Concluir cursos na DIO.**
-> 
++ Concluir curso Básico, Intermediário, Avançado de programação Dio.
++ Elaborar portfólios vencedores.
++ Especializar-se em front end.
+
 
 
 
