@@ -1,5 +1,4 @@
-##  👤Perfil:[@Corvo976]()
-![Screenshot_20231108-204335_Roblox.jpg](https://github.com/Corvo976/Repositorico/assets/128872433/3ccf8404-9017-48eb-b1b5-54865ac0ff24)
+##  👤Perfil:[@Corvo976]()![Screenshot_20231108-204335_Roblox.jpg](https://github.com/Corvo976/Repositorico/assets/128872433/3ccf8404-9017-48eb-b1b5-54865ac0ff24)
 
 ### ```<📚Informações gerais:>```
 
