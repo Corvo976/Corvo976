@@ -12,7 +12,7 @@
 ```<atualmente treino no android>```
 
 ## ```<💎Soft skills:>```
-- [x]Persistência. 
+- [x] Persistência. 
 - [x] Comunicação.
 - [x] Resolução de Problemas.
 - [x] Trabalho em equipe.
